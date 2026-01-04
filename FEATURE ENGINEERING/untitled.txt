@@ -1,0 +1,4 @@
+handling missing data
+
+if we have normal distribution we use mean
+if we have a skewed data, we use median
